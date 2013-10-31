@@ -1,3 +1,6 @@
+//Array of objects called "usStates" 
+//Each object has a "name" and "abbreviation" property
+
 var usStates = [
     {
         "name": "Alabama",
